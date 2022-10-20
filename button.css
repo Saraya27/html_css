@@ -1,0 +1,47 @@
+.btn {
+	
+padding-top: 8px;
+padding-bottom: 8px;
+
+padding-left: 12px;
+padding-right: 12px;
+
+margin: 3px;
+}
+.btn-primary{
+	background-color:green;
+	color:white;
+	border-radius:4px;
+	border-width:3px;
+	border-color:green;
+	
+}
+
+.btn-secondary{
+	background-color:blue;
+	color:white;
+	border-radius:6px;
+	border-color:blue;
+}
+
+.btn-danger{
+    background-color:red;
+    color:white;
+    border-radius:6px;
+	border-color:red;
+	
+
+}
+.btn-warning{
+	background-color: orange;
+	color:black;
+	border-radius:6px;
+	border-style:dashed;
+ 
+ }
+.btn-clear{
+	 background-color:lightgray;
+	 color:black;
+	 border-radius:6px;
+	 border-color:lightgray;
+}
